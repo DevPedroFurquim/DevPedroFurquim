@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pedfro Furquim</h1>
+<h1 align="center">Hi 👋, I'm Pedro Furquim</h1>
 <h3 align="center">A Computer Engineering student focused on full stack development</h3>
 
 <p>
