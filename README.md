@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/-pedro-furquim-dev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-furquim-dev/">
   <a/>
    <a href="mailto:pedrofurquim.dev@gmail.com">
-    <img src="https://img.shields.io/badge/-me@anshumanv.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrofurquim.dev@gmail.com">
+    <img src="https://img.shields.io/badge/-pedrofurquim.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrofurquim.dev@gmail.com">
    <a/>
 </p>
 
