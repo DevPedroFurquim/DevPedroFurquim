@@ -2,13 +2,13 @@
 <h3 align="center">A Computer Engineering student focused on full stack development</h3>
 
 <p>
-  <a href="https://twitter.com/devpedrofurquim">
+  <a href="https://twitter.com/devpedrofurquim" target="_blank">
     <img src="https://img.shields.io/badge/-@devpedrofurquim-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/devpedrofurquim">
    <a/>
-  <a href="https://www.linkedin.com/in/pedro-furquim-dev/">
+  <a href="https://www.linkedin.com/in/pedro-furquim-dev/" target="_blank">
     <img src="https://img.shields.io/badge/-pedrofurquimdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-furquim-dev/">
   <a/>
-   <a href="mailto:pedrofurquim.dev@gmail.com">
+   <a href="mailto:pedrofurquim.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-pedrofurquim.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrofurquim.dev@gmail.com">
    <a/>
 </p>
