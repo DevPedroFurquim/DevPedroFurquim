@@ -2,20 +2,18 @@
 <h3 align="center">A Computer Engineering student focused on full stack development</h3>
 
 <p>
-  <a href="https://twitter.com/devpedrofurquim" target="_blank">
+  <a href="https://twitter.com/devpedrofurquim" target="blank">
     <img src="https://img.shields.io/badge/-@devpedrofurquim-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/devpedrofurquim">
    <a/>
-  <a href="https://www.linkedin.com/in/pedro-furquim-dev/" target="_blank">
+  <a href="https://www.linkedin.com/in/pedro-furquim-dev/" target="blank">
     <img src="https://img.shields.io/badge/-pedrofurquimdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-furquim-dev/">
   <a/>
-   <a href="mailto:pedrofurquim.dev@gmail.com" target="_blank">
+   <a href="mailto:pedrofurquim.dev@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/-pedrofurquim.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrofurquim.dev@gmail.com">
    <a/>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devpedrofurquim&label=Profile%20views&color=0e75b6&style=flat" alt="devpedrofurquim" /> </p>
-
-<p align="left"> <a href="https://twitter.com/devpedrofurquim" target="blank"><img src="https://img.shields.io/twitter/follow/devpedrofurquim?logo=twitter&style=for-the-badge" alt="devpedrofurquim" /></a> </p>
 
 - 👨‍💻 My portfolio is available at [devpedrofurquim.github.io](devpedrofurquim.github.io)
 
