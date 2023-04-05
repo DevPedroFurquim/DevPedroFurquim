@@ -19,8 +19,6 @@
 
 - 📝 I regularly write articles on [https://dev.to/devpedrofurquim](https://dev.to/devpedrofurquim)
 
-- 📫 Reach me on **pedrofurquim.dev@gmail.com**
-
 - ❤️ **to code on Neovim**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devpedrofurquim&show_icons=true&locale=en&layout=compact" alt="devpedrofurquim" /></p>
