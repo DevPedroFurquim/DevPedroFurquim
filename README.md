@@ -21,8 +21,8 @@
 
 - ❤️ **to code on Neovim**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devpedrofurquim&show_icons=true&locale=en&layout=compact" alt="devpedrofurquim" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=devpedrofurquim&show_icons=true&locale=en&layout=compact" alt="devpedrofurquim" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devpedrofurquim&show_icons=true&locale=en" alt="devpedrofurquim" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=devpedrofurquim&show_icons=true&locale=en" alt="devpedrofurquim" /></p>
 
 <p><a href="https://ko-fi.com/devpedrofurquim"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="devpedrofurquim" /></a></p><br><br>
