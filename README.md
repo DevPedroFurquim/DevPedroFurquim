@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro Furquim</h1>
-<h3 align="center">A Computer Engineering student focused on full stack development</h3>
+<h3 align="center">A Computer Engineering student focused on full stack web development</h3>
 
 <p>
   <a href="https://twitter.com/devpedrofurquim" target="blank">
