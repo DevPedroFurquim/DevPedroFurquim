@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro Furquim</h1>
-<h3 align="center">A Computer Engineering student focused on full stack web development</h3>
+<h3 align="center">A Brazilian Computer Engineering student focused on full stack web development</h3>
 <hr>
 <p align="center">
     <a href="https://twitter.com/devpedrofurquim">
@@ -11,8 +11,13 @@
      <a href="mailto:pedrofurquim.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-307cc5?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    <img src="[https://komarev.com/ghpvc/?username=Nick-Gabe&style=for-the-badge](https://komarev.com/ghpvc/?username=devpedrofurquim&label=Profile%20views&color=0e75b6&style=flat)"/>
+    <img src="https://komarev.com/ghpvc/?username=devpedrofurquim&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
+
+## **👨‍💻 About me:**
+* Pedro Furquim, 23 years-old
+* Currently studying Full Stack Development
+* I like to write articles to document my learning
 
 - 👨‍💻 My portfolio is available at [https://devpedrofurquim.github.io/](https://devpedrofurquim.github.io/)
 
