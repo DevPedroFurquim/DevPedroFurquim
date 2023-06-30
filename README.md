@@ -23,6 +23,8 @@
 ## **💬 My skills:**
 <details>
   <summary>Languagues</summary>
+  `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`
+</details>
 
 
 
