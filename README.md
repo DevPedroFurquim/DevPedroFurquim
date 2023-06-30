@@ -21,6 +21,12 @@
 * I write articles on [https://dev.to/devpedrofurquim](https://dev.to/devpedrofurquim)
 
 ## **💬 My skills:**
+<details>
+  <summary>Languagues</summary>
+
+
+
+
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=devpedrofurquim&show_icons=true&locale=en&layout=compact" alt="devpedrofurquim" /></p>
 
