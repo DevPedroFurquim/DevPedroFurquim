@@ -1,19 +1,18 @@
 <h1 align="center">Hi 👋, I'm Pedro Furquim</h1>
 <h3 align="center">A Computer Engineering student focused on full stack web development</h3>
-
-<p>
-  <a href="https://twitter.com/devpedrofurquim" target="blank">
-    <img src="https://img.shields.io/badge/-@devpedrofurquim-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/devpedrofurquim">
-   <a/>
-  <a href="https://www.linkedin.com/in/pedro-furquim-dev/" target="blank">
-    <img src="https://img.shields.io/badge/-pedrofurquimdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-furquim-dev/">
-  <a/>
-   <a href="mailto:pedrofurquim.dev@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/-pedrofurquim.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrofurquim.dev@gmail.com">
-   <a/>
+<hr>
+<p align="center">
+    <a href="https://twitter.com/devpedrofurquim">
+    <img src="https://img.shields.io/badge/Twitter-307cc5?style=for-the-badge&logo=twitter&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/pedro-furquim-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+     <a href="mailto:pedrofurquim.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-307cc5?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <img src="[https://komarev.com/ghpvc/?username=Nick-Gabe&style=for-the-badge](https://komarev.com/ghpvc/?username=devpedrofurquim&label=Profile%20views&color=0e75b6&style=flat)"/>
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devpedrofurquim&label=Profile%20views&color=0e75b6&style=flat" alt="devpedrofurquim" /> </p>
 
 - 👨‍💻 My portfolio is available at [https://devpedrofurquim.github.io/](https://devpedrofurquim.github.io/)
 
