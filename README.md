@@ -17,13 +17,10 @@
 ## **👨‍💻 About me:**
 * Pedro Furquim, 23 years-old
 * Currently studying Full Stack Development
-* Linux user and Amateur reader (I love classic literature)
+* My portfolio is available at [https://devpedrofurquim.github.io/](https://devpedrofurquim.github.io/)
+* I write articles on [https://dev.to/devpedrofurquim](https://dev.to/devpedrofurquim)
 
-- 👨‍💻 My portfolio is available at [https://devpedrofurquim.github.io/](https://devpedrofurquim.github.io/)
-
-- 📝 I regularly write articles on [https://dev.to/devpedrofurquim](https://dev.to/devpedrofurquim)
-
-- ❤️ **to code on Neovim**
+## **💬 My skills:**
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=devpedrofurquim&show_icons=true&locale=en&layout=compact" alt="devpedrofurquim" /></p>
 
