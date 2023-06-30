@@ -17,7 +17,7 @@
 ## **👨‍💻 About me:**
 * Pedro Furquim, 23 years-old
 * Currently studying Full Stack Development
-* I like to write articles to document my learning
+* Linux user and Amateur reader (I love classic literature)
 
 - 👨‍💻 My portfolio is available at [https://devpedrofurquim.github.io/](https://devpedrofurquim.github.io/)
 
