@@ -27,14 +27,14 @@
 <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "Css" />
 <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "Javascript" />
 <img src = "https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white" alt = "Python" />
-<img src = "https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white" alt = "C" />
+<img src = "https://img.shields.io/badge/C-1572B6?style=for-the-badge&logo=python&logoColor=white" alt = "C" />
 </details>
 
 <details>
   <summary>Frameworks and Libraries</summary>
 <img src = "https://img.shields.io/badge/Flask-E34F26?style=for-the-badge&logo=flask&logoColor=white" alt = "Flask" />
 <img src = "https://img.shields.io/badge/Django-E34F26?style=for-the-badge&logo=django&logoColor=white" alt = "Django" />
-<img src = "https://img.shields.io/badge/Bootstrap-E34F26?style=for-the-badge&logo=bootstrap&logoColor=white" alt = "Flask" />
+<img src = "https://img.shields.io/badge/Bootstrap-23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt = "Flask" />
 </details>
 
 <details>
