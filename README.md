@@ -16,7 +16,8 @@
 
 ## **👨‍💻 About me:**
 * Pedro Furquim, 23 years-old
-* Currently studying Full Stack Development
+* Focused on Full Stack Web Development
+* Currently studying Cs50 Web from Hardvard.edu
 * My portfolio is available at [https://devpedrofurquim.github.io/](https://devpedrofurquim.github.io/)
 * I write articles on [https://dev.to/devpedrofurquim](https://dev.to/devpedrofurquim)
 
