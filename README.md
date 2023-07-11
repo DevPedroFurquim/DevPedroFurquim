@@ -43,13 +43,3 @@
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
 <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
 </details>
-
-
-
-
-
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=devpedrofurquim&show_icons=true&locale=en&layout=compact" alt="devpedrofurquim" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=devpedrofurquim&show_icons=true&locale=en" alt="devpedrofurquim" /></p>
-
-<p><a href="https://ko-fi.com/devpedrofurquim"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="devpedrofurquim" /></a></p><br><br>
