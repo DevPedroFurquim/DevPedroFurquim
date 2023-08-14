@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Pedro Furquim</h1>
-<h3 align="center">A Brazilian Computer Engineering student focused on full stack web development</h3>
+<h3 align="center">A Brazilian Computer Engineering student focused on front-end web development</h3>
 <hr>
 <p align="center">
     <a href="https://twitter.com/devpedrofurquim">
