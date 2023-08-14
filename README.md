@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Pedro Furquim</h1>
-<h3 align="center">A Brazilian Computer Engineering student focused on front-end web development</h3>
+<h3 align="center">A Brazilian Computer Engineering student focused on Front-end web development</h3>
 <hr>
 <p align="center">
     <a href="https://twitter.com/devpedrofurquim">
@@ -16,7 +16,7 @@
 
 ## **👨‍💻 About me:**
 * Pedro Furquim, 23 years-old
-* Focused on Full Stack Web Development
+* Focused on Front-end Web Development
 * Currently studying Cs50 Web from Hardvard.edu
 * My portfolio is available at [https://devpedrofurquim.github.io/](https://devpedrofurquim.github.io/)
 * I write articles on [https://dev.to/devpedrofurquim](https://dev.to/devpedrofurquim)
