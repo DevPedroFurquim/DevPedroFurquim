@@ -12,7 +12,7 @@
  
 🎓 I’m currently pursuing a **Computer Engineering Bachelor**
 
-🎯 My main goal is to master **JavaScript Technologies**
+🎯 My goal is to be **100x Software Developer**
  
 😎 On my free time I enjoy doing **Game Development**
 
