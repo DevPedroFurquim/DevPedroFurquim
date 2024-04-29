@@ -6,8 +6,6 @@
 
 <h3 align="center">A passionate software developer from Brazil 🇧🇷</h3>
 
-<br/>
-
 <div align="center">
  
 🎓 I’m currently pursuing a **Computer Engineering Bachelor**
