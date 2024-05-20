@@ -10,10 +10,6 @@
  
 🎓 I’m currently pursuing a **Computer Engineering Bachelor**
 
-🎯 My goal is to be **100x Software Developer**
- 
-😎 On my free time I enjoy doing **Game Development**
-
  </div>
  
 <div align="center"> 
